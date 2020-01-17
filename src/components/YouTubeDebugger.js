@@ -1,7 +1,7 @@
 // Code YouTubeDebugger Component Here
 import React from './react';
 
-class YouTubeDebugger extends Reac.Component {
+class YouTubeDebugger extends React.Component {
   constructor() {
     super();
     
